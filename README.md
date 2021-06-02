@@ -1,4 +1,4 @@
-# Adafruit88XXCNN
+# Adafruit88XX CNN
 
 ##이 코드는 Adafruit88xx 센서의 데이터를 분석하는 코드입니다.
 
